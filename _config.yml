@@ -1,6 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-primer
 title: L'idéOmètre
 description: Des idées grandes comme ça!
-logo: https://avatars1.githubusercontent.com/u/54585198?s=400&u=0f65d15e60aa2491ac78e2f09b7291b9488f1ffd&v=4
-show_downloads: false
 google_analytics: UA-146204588-1
